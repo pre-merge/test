@@ -9,6 +9,6 @@ export function calculate(num1, num2, operator) {
     case "/":
       return num1 / num2;
     default:
-      return "Invalid operator";
+      return "Invalid operator 1";
   }
 }
