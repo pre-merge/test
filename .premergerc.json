@@ -1,0 +1,8 @@
+{
+  "files": [
+    {
+      "path": "src/newcode.js",
+      "functions": ["calculate"]
+    }
+  ]
+}
