@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "src/newcode.js",
-      "functions": ["calculate2"]
+      "functions": ["calculate"]
     }
   ]
 }
