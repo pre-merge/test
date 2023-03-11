@@ -9,21 +9,6 @@ export function calculate(num1, num2, operator) {
     case "/":
       return num1 / num2;
     default:
-      return "Invalid operator 4";
-  }
-}
-
-export function calculate2(num1, operator, num2) {
-  switch (operator) {
-    case "+":
-      return num1 + num2;
-    case "-":
-      return num1 - num2;
-    case "*":
-      return num1 * num2;
-    case "/":
-      return num1 / num2;
-    default:
-      return "Invalid operator 5";
+      return "Invalid operator:" + operator;
   }
 }
