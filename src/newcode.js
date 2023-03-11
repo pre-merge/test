@@ -24,6 +24,6 @@ export function calculate2(num1, operator, num2) {
     case "/":
       return num1 / num2;
     default:
-      return "Invalid operator 4";
+      return "Invalid operator 5";
   }
 }
